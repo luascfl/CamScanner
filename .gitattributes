@@ -1,0 +1,2 @@
+CamScanner_v7.9.0.2512250000.apk filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
